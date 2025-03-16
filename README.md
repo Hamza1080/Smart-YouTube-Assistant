@@ -98,10 +98,4 @@ The application will be available at http://127.0.0.1:5000/.
 
 Feel free to fork this project, make improvements, and submit pull requests! Contributions are welcome.
 
-### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Contact
-
-For any inquiries or feedback, reach out at maleekhussainali456@gmail.com.
